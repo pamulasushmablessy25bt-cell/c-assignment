@@ -18,3 +18,6 @@ int main() {
 
     return 0;
 }
+output:
+Enter a non-negative integer: 5
+Factorial of 5 = 120
