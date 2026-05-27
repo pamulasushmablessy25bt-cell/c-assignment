@@ -25,6 +25,17 @@ int main() {
         // Display result
         printf("Concentration = %.2f\n", c);
     }
-
     return 0;
 }
+output:
+Enter number of samples: 2
+
+Sample 1
+Enter mass (m): 30
+Enter volume (V): 10
+Concentration = 3.00
+
+Sample 2
+Enter mass (m): 40
+Enter volume (V): 15
+Concentration = 2.67
