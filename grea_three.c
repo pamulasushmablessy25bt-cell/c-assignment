@@ -24,3 +24,6 @@ int main() {
 
     return 0;
 }
+output:
+Enter three numbers: 10,20,30
+2132662992 is the greatest number.
